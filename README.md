@@ -27,14 +27,14 @@ This dashboard helps identify:
 - Hospital types and distributions  
 - Bed capacity across major hospitals in Pune  
 - The dominance of private hospitals in the city
-
 ---
 
 ## Dashboard Overview 
 [Hospitals_Dashboard](https://github.com/Khushi25-da/Pune-Hospital-Analysis/blob/main/Hospital_Dashboard.png)
 ---
 ## Original Data
-[Get_raw_data_here](
+[Get_raw_data_here](https://github.com/Khushi25-da/Pune-Hospital-Analysis/blob/main/Pune_hospitals_raw_data.csv)
+---
 ## 💡 Use Cases
 
 - Government or municipal health planning  
