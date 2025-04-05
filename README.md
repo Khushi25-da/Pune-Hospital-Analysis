@@ -29,7 +29,7 @@ This dashboard helps identify:
 - The dominance of private hospitals in the city
 
 ## Dashboard Overview 
-[Hospitals_Dashboard]
+[Hospitals_Dashboard](https://github.com/Khushi25-da/Pune-Hospital-Analysis/blob/main/Hospital_Dashboard.png)
 
 ## 💡 Use Cases
 
