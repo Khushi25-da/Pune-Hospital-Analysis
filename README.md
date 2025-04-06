@@ -1,9 +1,9 @@
 # Pune-Hospital-Analysis
-# 🏥 Pune Hospitals Analysis Dashboard
+#  Pune Hospitals Analysis Dashboard
 
-This Power BI dashboard provides an interactive and insightful analysis of hospital data from Pune. It is designed to support healthcare planning and decision-making by presenting key metrics related to hospital infrastructure and services.
+This Power BI dashboard provides an interactive and insightful analysis of Pune's hospital data. It is designed to support healthcare planning and decision-making by presenting key metrics related to hospital infrastructure and services.
 ---
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - **Total Hospitals**: 737  
 - **Public vs Private Hospitals**  
@@ -13,14 +13,14 @@ This Power BI dashboard provides an interactive and insightful analysis of hospi
 - **Bed Availability by Facility**  
 - **Interactive Filters**: hospital class, level, and name  
 ---
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI  
 - SQL  
 - Microsoft Excel  
 - Data Cleaning & Transformation
 ---
-## 📌 Insights
+##  Insights
 
 This dashboard helps identify:
 - Infrastructure gaps in ambulance and pharmacy availability  
