@@ -35,8 +35,4 @@ This dashboard helps identify:
 ## Original Data
 [Get_raw_data_here](https://github.com/Khushi25-da/Pune-Hospital-Analysis/blob/main/Pune_hospitals_raw_data.csv)
 ---
-## 💡 Use Cases
 
-- Government or municipal health planning  
-- Hospital benchmarking  
-- Urban healthcare research and analysis
